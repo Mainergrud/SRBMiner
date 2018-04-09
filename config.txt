@@ -1,0 +1,13 @@
+"cryptonight_type" : NORMAL,
+"intensity" : 0,
+"double_threads" : true,
+"target_temperature" : 80,
+"pool_use_tls" : false,
+"pool" : "xmr.crypto-pool.fr:7777",
+"wallet" : "4A6G5JmSNiULxE2BeuobfTaMFC2LcLJQ4XwQpgzUf7GMFjKGFzBz1N42538xQ4XZire1pN4veMniiWnFw62YV5GsV1hVz26",
+"password" : "x",
+"location" : "europe",
+"log_file" : "log",
+"charity_pool" : "indeedminers.eu:1111",
+"charity_wallet" : "srbminer",
+"charity_password" : "x"

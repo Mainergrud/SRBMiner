@@ -1,0 +1,5 @@
+"pool_list" :
+[
+	{"pool_address" : "indeedminers.eu:1111", "wallet_address" : "49gbAsWVZzh2UjRSW8Y5nXjhrvftsyZXJPcULYvUsWNMcFdLNfJBVq9L233ZQ9s3ucefrGCGk9RucfiN83U3VdqyFvZJBxF", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 10 },
+	{"pool_address" : "pool.usxmrpool.com:5555", "wallet_address" : "49gbAsWVZzh2UjRSW8Y5nXjhrvftsyZXJPcULYvUsWNMcFdLNfJBVq9L233ZQ9s3ucefrGCGk9RucfiN83U3VdqyFvZJBxF", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 5 },
+],
